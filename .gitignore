@@ -1,0 +1,15 @@
+.gradle
+*.ipr
+*.iws
+out
+reports
+.DS_Store
+.idea
+opt/jenkins/jenkins_home
+opt/jenkins/run
+opt/nexus/etc
+opt/nexus/nexus-data
+opt/postgresql/data
+opt/sonarqube/data
+opt/sonarqube/extensions
+opt/sonarqube/logs
